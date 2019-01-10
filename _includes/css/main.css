@@ -193,6 +193,23 @@ header .intro-text .skills {
   float: left;
 }
 
+.navbar-default .navbar-toggle {
+    background-color: lightgrey;
+}
+.cover-image-scale {
+  height: 500px;
+  width: 500px;
+}
+@media(max-width:767px) {
+  .cover-image-scale {
+    height: 300px;
+    width: 300px;
+  }
+}
+
+.form-control {
+  color: black;
+}
 section {
     padding: 100px 0;
 }
@@ -204,7 +221,7 @@ section h2 {
 
 section.success {
     color: #000000;
-    background: #{{ site.color.primary }};
+    background: white;
 }
 
 @media(max-width:767px) {
@@ -386,6 +403,17 @@ footer .footer-below {
 .btn.active {
     outline: 0;
 }
+
+
+.btn-success {
+    color: #000000;
+}
+
+.btn-success:hover {
+  background-color: black;
+  color: white;
+}
+
 
 .scroll-top {
     z-index: 1049;
