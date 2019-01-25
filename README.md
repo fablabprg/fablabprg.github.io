@@ -19,6 +19,8 @@ Prague needs a Fab Lab. A shared space for creators, designers, educators, and i
 
 In the spirit of open making, this is an open initiative to crowd source a Fab Lab. This is the very beginning so reach out with any questions or proposals, a diverse skill set and passion for the maker movement and digital fabricatoin are welcome in this project! 
 
+![Bilby Stampede](http://example.com/images/logo.png)
+
 ![FabLabPrg icon](fablabprg.github.io/img/FabLabPrg_Logo-icon.svg)
 
 ## 🚦 Wrap Up
