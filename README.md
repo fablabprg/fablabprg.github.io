@@ -2,6 +2,7 @@
   <a href="http://github.com/fablabprg/fablabprg.github.io">
     <img src="https://fablabprg.github.io/img/FabLabPrg_logo.svg" alt="Fab Lab Prague" width="100%" height="96">
   </a>
+  <h2 align="center"></h2> 
   <p align="center">An open call to start a fablab in Prague</p>
 </p>
 
@@ -18,9 +19,8 @@ Prague needs a Fab Lab. A shared space for creators, designers, educators, and i
 
 In the spirit of open making, this is an open initiative to crowd source a Fab Lab. This is the very beginning so reach out with any questions or proposals, a diverse skill set and passion for the maker movement and digital fabricatoin are welcome in this project! 
 
-<img src="https://fablabprg.github.io/img/FabLabPrg_logo.svg" alt="Fab Lab Prague" width="100%" height="96">
+<img align="center" src="https://fablabprg.github.io/img/FabLabPrg_Logo-icon.svg" alt="Fab Lab Prague" width="100%" height="150">
 
-![FabLabPrg icon](https://fablabprg.github.io/img/FabLabPrg_Logo-icon.svg)
 
 ## 🚦 Wrap Up
 
